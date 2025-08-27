@@ -1,0 +1,2 @@
+Email Password Security Tester
+A cybersecurity tool developed in Python and C++ to simulate brute-force attacks on email accounts for security testing and research purposes. It uses a custom wordlist to identify weak passwords and helps organizations or individuals improve their security posture.
